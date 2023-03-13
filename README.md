@@ -15,5 +15,5 @@ Alteramos o serviço *Freight* para, ao invés de fazer várias verificações, 
 Dessa forma podemos isolar os detalhes de implementação de um algoritmo, do código que ele usa. Também atendemos o **Open-Closed Principle** do **SOLID**, onde podemos introduzir novas estratégias, sem mudar o contexto.
 
 ## Fonte
-- [Refactoring Guru](https://refactoring.guru/design-patterns/strategy)
-- [Código Fonte TV](https://www.youtube.com/watch?v=WPdrnuSHAQs)
+- <a href="https://refactoring.guru/design-patterns/strategy" target="_blank">Refactoring Guru</a>
+- <a href="https://www.youtube.com/watch?v=WPdrnuSHAQs" target="_blank">Código Fonte TV</a>
